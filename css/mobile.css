@@ -1,0 +1,30 @@
+@media (max-width:376px) {
+
+    /* section1 */
+    .section_1 {
+        height: 240px;
+    }
+
+    .section1_p {
+        font-size: 32px;
+    }
+
+    /* section2 */
+    .section2_img {
+        height: 240px;
+    }
+    /* section3 */
+.secction_3{
+    padding: 32px 24px;
+}
+/* footer */
+.footer_h2{
+    text-align: center;
+   
+}
+.footer_art {
+   
+    column-gap: 10px;
+    justify-content: center;
+}
+}
